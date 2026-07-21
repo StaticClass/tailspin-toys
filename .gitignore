@@ -1,3 +1,7 @@
+# docker compose
+docker-compose.yml
+post_start.sh
+
 # macOS
 .DS_Store
 
